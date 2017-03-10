@@ -20,7 +20,7 @@
     "1",
     "2"
   ],
-  "FrameworkVersion": "4.0.0",
+  "FrameworkVersion": "6.4.0",
   "CorePlugins": [
     "com.phonegap.plugins.barcodescanner@2.0.0",
     "cordova-plugin-splashscreen",
